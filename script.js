@@ -8,7 +8,7 @@
 
 const CONFIG = {
   businessName: 'Kochoil NIG LTD',
-  whatsappNumber: '2347068613447', // international format, no + or spaces
+  whatsappNumber: '+2347068613447', // international format, no + or spaces
   email: 'admin@koch-oil.com'
 };
 
